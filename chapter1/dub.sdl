@@ -1,3 +1,5 @@
 name "chapter1"
 authors "Hiroki Noda"
+copyright "Copyright © 2023, Hiroki Noda"
+license "MIT"
 targetType "executable"
