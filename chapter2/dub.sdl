@@ -1,0 +1,5 @@
+name "chapter2"
+description "Building a stub resolver."
+authors "Hiroki Noda"
+copyright "Copyright © 2023, Hiroki Noda"
+license "MIT"
