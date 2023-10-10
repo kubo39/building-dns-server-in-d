@@ -1,0 +1,5 @@
+name "chapter4"
+description "Baby's first DNS server"
+authors "Hiroki Noda"
+copyright "Copyright © 2023, Hiroki Noda"
+license "MIT"
