@@ -669,9 +669,9 @@ void main()
 	import std.socket : UdpSocket;
     import std.stdio;
 
-	auto qname = "www.yahoo.com";
-	AQueryType aqt;
-	QueryType qtype = aqt;
+	auto qname = "yahoo.com";
+	MXQueryType mqt;
+	QueryType qtype = mqt;
 
 	/// google public DNS.
 	auto server = new InternetAddress("8.8.8.8", 53);
